@@ -1,0 +1,3 @@
+loadData/loadData2023/sep23/sep.txt
+
+Load Data for the month of September, 2023 of Chhattisgarh State.

@@ -1,0 +1,3 @@
+loadData/loadData2023/mar23/mar.txt
+
+Load Data for the month of March, 2023 of Chhattisgarh State.

@@ -1,0 +1,1 @@
+Load Data (Generation and Demand) for the month of January 2023 of Chhattisgarh State of India.
